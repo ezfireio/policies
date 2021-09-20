@@ -1,13 +1,15 @@
 ---
 title: Copy that?
-description: How Basecamp handles copyright infringement claims.
+description: How Ezfire handles copyright infringement claims.
+published: true
+slug: copyright
 ---
 
 # Copyright Infringement Claims
 
 ## Notification of Copyright Infringement Claims
 
-Making original work is hard! As described in our [Use Restrictions policy](../abuse/index.md), you can’t use Basecamp products* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
+Making original work is hard! As described in our [Use Restrictions policy](/abuse/), you can’t use Basecamp products\* to make or disseminate work that uses the intellectual property of others beyond the bounds of [fair use](https://www.copyright.gov/fair-use/more-info.html).
 
 Are you a copyright owner? Under the Digital Millennium Copyright Act (17 U.S.C. § 512), you have the right to notify us (Basecamp, LLC) if you believe that an account user of any product we built and maintain has infringed on your work(s) as copyright owner. To be effective, the notification of claimed infringement must be written. Please include the following information:
 
@@ -41,4 +43,4 @@ You can notify us of either copyright infringement claims or DCMA counter-notifi
 ATTN: David H. Hansson
 Chicago, IL 60612 USA
 
-**This policy and process applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List.*
+\*_This policy and process applies to any product created and owned by Basecamp, LLC. That includes Basecamp (any version), HEY, Highrise, Campfire, Backpack, Writeboard, and Ta-da List._
