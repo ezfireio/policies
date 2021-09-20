@@ -28,4 +28,4 @@ Please [contact our Support team](mailto:support@ezfire.io) if you have trouble 
 - you believe you’re being charged in error.
 - your organization is tax exempt.
 
-_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/_
+_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_

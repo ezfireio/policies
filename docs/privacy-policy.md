@@ -112,4 +112,4 @@ We may update this policy as needed to comply with relevant regulations and refl
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch by emailing us at [privacy@ezfire.io](mailto:privacy@ezfire.io) and we’ll be happy to answer them!
 
-_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/_
+_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_

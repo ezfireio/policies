@@ -25,4 +25,4 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 
 At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note](mailto:support@ezfire.io), tell us what's up, and we'll work with you to make sure you’re happy.
 
-_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/_
+_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_

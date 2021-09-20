@@ -34,4 +34,4 @@ Please share as much as you are comfortable with about the account, the content 
 
 Someone on our team will respond within one business day to let you know we’ve begun investigating. We have published details on [how we investigate use restriction reports](/how-we-handle-abuse/). We will also let you know the outcome of our investigation (unless you ask us not to, or we are not allowed to under law).
 
-_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/_
+_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_

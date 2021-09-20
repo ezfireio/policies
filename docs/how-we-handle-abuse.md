@@ -75,4 +75,4 @@ If we terminate an account without notice, the decision is final.
 
 For other cases, we will consider good faith appeals sent to [appeals@ezfire.io](mailto:appeals@ezfire.io) by the account owner within 14 calendar days.
 
-_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/_
+_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_

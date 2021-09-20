@@ -92,4 +92,4 @@ In other words: choosing to use our Services does mean you are making a bet on u
 
 If you have a question about any of the Terms of Service, please [contact our Support team](mailto:support@ezfire.io).
 
-_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/_
+_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_
