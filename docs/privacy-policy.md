@@ -59,11 +59,11 @@ We also do not collect any biometric data. You are given the option to add a pic
 
 Our default practice is to not access your information. The only times we’ll ever access or share your info are:
 
-**To provide products or services you’ve requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use [here](/privacy/ezfire-subprocessors). Having subprocessors means we are using technology to access your data. No Ezfire human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](/privacy/company-processors/).
+**To provide products or services you’ve requested**. We do use some third-party services to run our applications and only to the extent necessary process some or all of your personal information via these third parties. You can view the list of third-party services we use [here](/ezfire-subprocessors/). Having subprocessors means we are using technology to access your data. No Ezfire human looks at your data for these purposes unless an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases and when they happen, we look for root cause solutions as much as possible to avoid them from reoccurring. We also use some other processors for other business functions, which you can view: [Company processors](/company-processors/).
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 
-**To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
+**To investigate, prevent, or take action regarding [restricted uses](/abuse/).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We have an obligation to protect the privacy and safety of both our customers and the people reporting issues to us. We do our best to balance those responsibilities throughout the process. If we do discover you are using our products for a restricted purpose, we will report the incident to the appropriate authorities.
 
 **When required under applicable law.** Weavemet Inc. is a Canadian company and all data infrastructure are located in the US. We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
 
@@ -94,13 +94,13 @@ If you are in the EU, you can identify your specific authority to file a complai
 
 All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted.
 
-For our products, most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](../security/index.md).
+For our products, most data are not encrypted while they live in our database (since it needs to be ready to send to you when you need it), but we go to great lengths to secure your data at rest.
 
 ## What happens when you delete data in your product accounts
 
 In many of our applications, we give you the option to trash data. Anything you trash on your product accounts while they are active will be kept in an accessible trash can for up to 30 days (it varies a little by product). After that, the trashed data are no longer accessible via the application and are deleted from our active servers within the next 30 days. We also have some backups of our application databases, which are kept for up to another 30 days. In total, when you trash things in our applications, they are purged within 90 days from all of our systems and logs. Retrieving data for a single account from a backup is cost-prohibitive and unduly burdensome so if you change your mind you’ll need to do so before your data are deleted from our active servers.
 
-We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](../cancellation/index.md) for more details.
+We also delete your data after an account is cancelled. In this case, there is no period of data being kept in an accessible trash can so your data are purged within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](/cancellation/) for more details.
 
 ## Location of site and data
 

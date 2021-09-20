@@ -15,3 +15,5 @@ The following is a list of personal data subprocessors we use. These subprocesso
 - [Sentry](https://sentry.io/). Error reporting software.
 - [Sendgrid](https://sendgrid.com/). Transactional email service.
 - [Stripe](https://stripe.com/). Payment processing services.
+
+_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/_

@@ -13,3 +13,5 @@ For the following processors, we have established GDPR-compliant data processing
 
 - [Hubspot](https://www.hubspot.com/). Customer relations manager.
 - [Sendgrid](https://sendgrid.com). Transactional and marketing emails.
+
+_Adapted from the [Basecamp open-source policies](https://github.com/basecamp/policies) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/_

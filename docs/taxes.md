@@ -1,6 +1,8 @@
 ---
 title: Ezfire and Taxes
 description: We are required to collect and remit sales tax in a number of jurisdictions.
+published: true
+slug: taxes
 ---
 
 # Taxes!

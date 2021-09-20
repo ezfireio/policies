@@ -2,16 +2,16 @@
 title: How we handle abusive usage
 description: Guiding principles and process for investigating abuse reports
 published: true
-slug: how-we-handle
+slug: how-we-handle-abuse
 ---
 
 # How we handle abusive usage
 
 _Last updated: September 18, 2021_
 
-We build our products\* to give teams a better way to work. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
+We build our products to give teams a better way to work. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 
-Sometimes, though, we discover potential abusive usage as detailed in our [Use Restrictions policy](/abuse). When that happens, we investigate using the following guiding principles and process.
+Sometimes, though, we discover potential abusive usage as detailed in our [Use Restrictions policy](/abuse/). When that happens, we investigate using the following guiding principles and process.
 
 ## Guiding Principles
 

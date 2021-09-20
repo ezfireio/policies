@@ -1,6 +1,8 @@
 ---
 title: Cancellation policy
 description: Everything you need to know about canceling your Ezfire account.
+published: true
+slug: cancellation
 ---
 
 # Cancellation policy
